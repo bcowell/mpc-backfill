@@ -1,5 +1,8 @@
 # mpc-backfill
- 
+A ruby script to print Magic the Gathering proxy decks on both sides of the card.
+
+Merges two XML decks given by the [mpc autofill web app](https://mpcfill.com/) which then gets fed into the autofill.exe. A tool that auto uploads images and creates your custom playing card order
+
 # Setup
 1. Grab the latest MPC Fill exe from [here](https://github.com/MrTeferi/MPC-Fill/releases)
 2. With Ruby 3 installed 
