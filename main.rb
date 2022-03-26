@@ -9,8 +9,13 @@ require 'nokogiri'
 # Ex.
 # front = [1, 2, ... 103]
 # back =  [3, 45, 78]
-class BackFill
 
+# TODO: take this input from CLI
+deck_a_file_path = './example-decks/ds.xml'
+deck_b_file_path = './example-decks/aggro_loam.xml'
+output_file_path = './output/ds_aggro_loam.xml'
+
+class BackFill
   def initialize(
     deck_a_file_path, 
     deck_b_file_path, 
@@ -35,18 +40,24 @@ class BackFill
     doc_a = Nokogiri::XML(deck_a_file)
     doc_b = Nokogiri::XML(deck_b_file)
 
+    # TODO: if there's no backs tag, add an empty wrapper
+    # if (doc_a.search('//backs')).size == 0
+    #   doc_a.at('//fronts').next = '<backs></backs>'
+    # elsif (doc_b.search('//backs')).size == 0
+    #   doc_b.at('//fronts').next = '<backs></backs>'
+    # end
+
     # primary deck should have fewer backs (more space to fill)
     # TODO: technically this should be the max of the slot id in either
     back_count_a = doc_a.search('//backs/card').count
     back_count_b = doc_b.search('//backs/card').count
-    
+
     if (back_count_a < back_count_b)
       @primary_doc, @secondary_doc = doc_a, doc_b
     else
       @primary_doc, @secondary_doc = doc_b, doc_a
     end
   end
-
 
   def merge_primary_and_secondary_decks
     # max amount of cards we can include
@@ -223,11 +234,6 @@ class BackFill
     p hash
   end
 end
-
-# TODO: take this input from CLI
-deck_a_file_path = './example-decks/w_weenie.xml'
-deck_b_file_path = './example-decks/vial_krark.xml'
-output_file_path = './output/w_weenie_vial_krark.xml'
 
 backfill = BackFill.new(deck_a_file_path, deck_b_file_path, output_file_path)
 backfill.perform!

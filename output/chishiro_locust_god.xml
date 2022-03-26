@@ -1,0 +1,980 @@
+<?xml version="1.0"?>
+<order>
+  <details>
+    <quantity>104</quantity>
+    <bracket>108</bracket>
+    <stock>(S30) Standard Smooth</stock>
+    <foil>false</foil>
+  </details>
+  <fronts>
+    <card>
+      <id>1j6JqN5WNYRK6m9Lo5wyuXYjivlrKwaIX</id>
+      <slots>0</slots>
+      <name>Rishkar's Expertise.png</name>
+      <query>rishkars expertise</query>
+    </card>
+    <card>
+      <id>1c1XWn-QR3OOuI2FL4LaVc2odwQ_cWPaa</id>
+      <slots>1</slots>
+      <name>Return of the Wildspeaker.png</name>
+      <query>return of wildspeaker</query>
+    </card>
+    <card>
+      <id>1AaCfudq1WCVqvdmRZWIS_HV81SSADT2o</id>
+      <slots>2</slots>
+      <name>Shamanic Revelation.png</name>
+      <query>shamanic revelation</query>
+    </card>
+    <card>
+      <id>1crWSoKfHix2xLvkyvrodKBO1Wnl9wxn0</id>
+      <slots>3</slots>
+      <name>Soul_s Majesty.png</name>
+      <query>souls majesty</query>
+    </card>
+    <card>
+      <id>1Pap_KuAWA4e3frhQsW_P9WbJr_4m8xio</id>
+      <slots>4</slots>
+      <name>Abundant Growth.png</name>
+      <query>abundant growth</query>
+    </card>
+    <card>
+      <id>1JSe1r5kNrGYu5UPuUpUGU-zNjDrGv71d</id>
+      <slots>5</slots>
+      <name>Arcane Signet.png</name>
+      <query>arcane signet</query>
+    </card>
+    <card>
+      <id>1UxDid_XxljVAniKRarQgi9w22WjGxNp-</id>
+      <slots>6</slots>
+      <name>7. Bala Ged Recovery.png</name>
+      <query>Bala Ged Recovery</query>
+    </card>
+    <card>
+      <id>1JH2jQ_-EX6uycozCKG7ZKnBJJWv1A-gu</id>
+      <slots>7</slots>
+      <name>Bear Umbra.png</name>
+      <query>bear umbra</query>
+    </card>
+    <card>
+      <id>14Q9CY7tpcfntmBHWCcOfemEXIywGXQqO</id>
+      <slots>8</slots>
+      <name>Beast Within.png</name>
+      <query>beast within</query>
+    </card>
+    <card>
+      <id>1hcu2TichUQekP6Jp_6lDHoiXDXuUbW-S</id>
+      <slots>9</slots>
+      <name>Beast Whisperer.png</name>
+      <query>beast whisperer</query>
+    </card>
+    <card>
+      <id>1g4nQctv_oVTJBU1jVTcnEaDa2baY-CL8</id>
+      <slots>10</slots>
+      <name>Blackblade Reforged.png</name>
+      <query>blackblade reforged</query>
+    </card>
+    <card>
+      <id>12BynaXBPRUWMo7Aetp0VA0JuI9c9vgzk</id>
+      <slots>11</slots>
+      <name>Blasphemous Act.png</name>
+      <query>blasphemous act</query>
+    </card>
+    <card>
+      <id>1du7eWNn5d5vaboX_RRMY_k7P4Sd5lXfF</id>
+      <slots>12</slots>
+      <name>Reforge the Soul.png</name>
+      <query>reforge soul</query>
+    </card>
+    <card>
+      <id>1CPR53u8EicgKyDn_PJMVQzm1ZKY35nnY</id>
+      <slots>13</slots>
+      <name>Champion of Lambholt.png</name>
+      <query>champion of lambholt</query>
+    </card>
+    <card>
+      <id>1NkWtBa8SF9G2eiW8trmmYAe7XiVe5TPJ</id>
+      <slots>14</slots>
+      <name>Chaos Warp.png</name>
+      <query>chaos warp</query>
+    </card>
+    <card>
+      <id>1dCKqSHF1oHI0O4eRaVUEpHwBfGbJGjk2</id>
+      <slots>15</slots>
+      <name>Cinder Glade.png</name>
+      <query>cinder glade</query>
+    </card>
+    <card>
+      <id>1Uhqf1JaxhopLrXM37IRQ65CBpiRBEvjW</id>
+      <slots>16</slots>
+      <name>Command Tower.png</name>
+      <query>command tower</query>
+    </card>
+    <card>
+      <id>11-35rGNtXw_XJBPFh7huj2_itOgoSVkS</id>
+      <slots>17</slots>
+      <name>Decimate.png</name>
+      <query>decimate</query>
+    </card>
+    <card>
+      <id>1Gu9KhqhBzp9DuK2Qh79jvUjWWDzQW3js</id>
+      <slots>18</slots>
+      <name>Dryad Arbor.png</name>
+      <query>dryad arbor</query>
+    </card>
+    <card>
+      <id>18Ivv3SPeGpxy850-bzaplna-e-HWeGb7</id>
+      <slots>19</slots>
+      <name>Duskshell Crawler.png</name>
+      <query>duskshell crawler</query>
+    </card>
+    <card>
+      <id>1mRGnaq6ZW5Gla4JdgOfYLAIR6ZfzKxZN</id>
+      <slots>20</slots>
+      <name>Embercleave.png</name>
+      <query>embercleave</query>
+    </card>
+    <card>
+      <id>1l569v3wIn_uBOpLCa-i6QNQvJLOfQqyk</id>
+      <slots>21</slots>
+      <name>Fertile Ground.png</name>
+      <query>fertile ground</query>
+    </card>
+    <card>
+      <id>1EWowtrOWk7GsXscARxGFseqUxl4RSxnp</id>
+      <slots>22</slots>
+      <name>Forgotten Ancient.png</name>
+      <query>forgotten ancient</query>
+    </card>
+    <card>
+      <id>1oY_rrlvg8EmP8W6TT0IH2SyhSgegbSR7</id>
+      <slots>23</slots>
+      <name>Fyndhorn Elves.png</name>
+      <query>fyndhorn elves</query>
+    </card>
+    <card>
+      <id>1zQK5XzCDKtFcc567DDvmAG6fiQo6jLEp</id>
+      <slots>24</slots>
+      <name>Game Trail.png</name>
+      <query>game trail</query>
+    </card>
+    <card>
+      <id>1edL7QKUf_wWDxO8DGz4XFIisViT8UQwH</id>
+      <slots>25</slots>
+      <name>Genesis Hydra.png</name>
+      <query>genesis hydra</query>
+    </card>
+    <card>
+      <id>1prIZkGe81G19dZodC6VXpfcHWH_RAAmr</id>
+      <slots>26</slots>
+      <name>Goblin Anarchomancer.png</name>
+      <query>goblin anarchomancer</query>
+    </card>
+    <card>
+      <id>1OIKP6_rE1CbIlvHx38YTJX27sn-bZcth</id>
+      <slots>27</slots>
+      <name>Guardian Project.png</name>
+      <query>guardian project</query>
+    </card>
+    <card>
+      <id>1EBVsnHpaZcsEXFkAw9XYYIZnwmUue7Iz</id>
+      <slots>28</slots>
+      <name>Grafted Growth.png</name>
+      <query>grafted growth</query>
+    </card>
+    <card>
+      <id>1PoT0jDgIphEkjgN6ax-GDnVzMCMI3N8I</id>
+      <slots>29</slots>
+      <name>Grumgully, the Generous.png</name>
+      <query>grumgully generous</query>
+    </card>
+    <card>
+      <id>156AkfRAO07dBYvauKaP6iKM52Y-f5OjT</id>
+      <slots>30</slots>
+      <name>Gruul Turf.png</name>
+      <query>gruul turf</query>
+    </card>
+    <card>
+      <id>1_GnFbR2be6GKqTf3iBhwY1_9l_kSjvAH</id>
+      <slots>31</slots>
+      <name>Halana and Alena, Partners.png</name>
+      <query>halana and alena partners</query>
+    </card>
+    <card>
+      <id>118_U0wAQASoSUsUF72N_n2UHZSpKOBeb</id>
+      <slots>32</slots>
+      <name>Harmonize.png</name>
+      <query>harmonize</query>
+    </card>
+    <card>
+      <id>1iQEDUMmxnmE58vLri69nqXdy58VQ_T9e</id>
+      <slots>33</slots>
+      <name>Hexdrinker.png</name>
+      <query>hexdrinker</query>
+    </card>
+    <card>
+      <id>1EiJ90tiLWuPtessEo9oDlPHOECU22ZPy</id>
+      <slots>34</slots>
+      <name>Incubation Druid.png</name>
+      <query>incubation druid</query>
+    </card>
+    <card>
+      <id>132tGPQdTKq9WkgkaNyIXp5LrYzubCRnm</id>
+      <slots>35</slots>
+      <name>Kaldra Compleat.png</name>
+      <query>kaldra compleat</query>
+    </card>
+    <card>
+      <id>1BfaKzpO5YXAHI19H7Cvpn2Bcn3IAZUKP</id>
+      <slots>36</slots>
+      <name>Kenrith_s Transformation.png</name>
+      <query>kenriths transformation</query>
+    </card>
+    <card>
+      <id>1cNc4cyn0QEaDERDksFrQXwQmRk8PAjb7</id>
+      <slots>37</slots>
+      <name>Kodama_s Reach.png</name>
+      <query>kodamas reach</query>
+    </card>
+    <card>
+      <id>14xJ8TelpcrcIKDbAvSLDOKydTdQtZPiG</id>
+      <slots>38</slots>
+      <name>Kodama of the West Tree.png</name>
+      <query>kodama of west tree</query>
+    </card>
+    <card>
+      <id>1I3pzxoO3J1ApfMAqWI77AlImn91NobuG</id>
+      <slots>39</slots>
+      <name>Krenko, Tin Street Kingpin.png</name>
+      <query>krenko tin street kingpin</query>
+    </card>
+    <card>
+      <id>1TBAGvEQjTrb_2S3V6firreAOobcPn7hj</id>
+      <slots>40</slots>
+      <name>Mage Slayer.png</name>
+      <query>mage slayer</query>
+    </card>
+    <card>
+      <id>1J21H-XPQVipZLYYJyJIrPJ42OALG8ahn</id>
+      <slots>41</slots>
+      <name>Mossfire Valley (Retro).jpg</name>
+      <query>mossfire valley</query>
+    </card>
+    <card>
+      <id>1U8cDyXtOCXoeypQAf_yWL1hcq7mA94gg</id>
+      <slots>42</slots>
+      <name>Nettlecyst.png</name>
+      <query>nettlecyst</query>
+    </card>
+    <card>
+      <id>1Ff9cEWvE9tXgX5su9EY738KpiwNirt-O</id>
+      <slots>43</slots>
+      <name>Managorger Hydra.png</name>
+      <query>managorger hydra</query>
+    </card>
+    <card>
+      <id>1vwkJOS8sJzTws3JElTOMfhTjmTuUQIMb</id>
+      <slots>44</slots>
+      <name>Oran-Rief, the Vastwood.png</name>
+      <query>oran rief vastwood</query>
+    </card>
+    <card>
+      <id>1n1EAcT-r1YmD8JJI3B9aldPtaAKrMUfb</id>
+      <slots>45</slots>
+      <name>Orochi Merge-Keeper.png</name>
+      <query>orochi merge keeper</query>
+    </card>
+    <card>
+      <id>1vYD-tTBRr22TdKne7SlFXr0wdN-YN0AH</id>
+      <slots>46</slots>
+      <name>Overgrowth.png</name>
+      <query>overgrowth</query>
+    </card>
+    <card>
+      <id>1QStgTIgxxm6bQASfLuDOYlOpgF_XXqnV</id>
+      <slots>47</slots>
+      <name>Primeval Protector.png</name>
+      <query>primeval protector</query>
+    </card>
+    <card>
+      <id>1jh9QwCr7FNFS7Xlujd7ffSjZu1Y8oyiO</id>
+      <slots>48</slots>
+      <name>Rabbit Battery.png</name>
+      <query>rabbit battery</query>
+    </card>
+    <card>
+      <id>1h7sPKKgTp3_fG5CzDfNcqYnQUyPXuvni</id>
+      <slots>49</slots>
+      <name>Raging Ravine.png</name>
+      <query>raging ravine</query>
+    </card>
+    <card>
+      <id>1FGdhNcT2NcLxK2o0DtDYww63WY6qpjPj</id>
+      <slots>50</slots>
+      <name>Rancor.png</name>
+      <query>rancor</query>
+    </card>
+    <card>
+      <id>1KXPiRMwMQNTqbVgeZb_q6p063hU-Isy7</id>
+      <slots>51</slots>
+      <name>Rhythm of the Wild.png</name>
+      <query>rhythm of wild</query>
+    </card>
+    <card>
+      <id>10IL5oNje90gETUgEaDaQZFn409FELOnU</id>
+      <slots>52</slots>
+      <name>Rishkar, Peema Renegade.png</name>
+      <query>rishkar peema renegade</query>
+    </card>
+    <card>
+      <id>1YpNBmCOqmlLe5EuFpvFZ9Sld3EUCkB0S</id>
+      <slots>53</slots>
+      <name>Rockfall Vale (Extended).png</name>
+      <query>rockfall vale</query>
+    </card>
+    <card>
+      <id>1fxA2eVcQqYiLfNerCcDDKXlCAABTsg0o</id>
+      <slots>54</slots>
+      <name>Rogue_s Passage.png</name>
+      <query>rogues passage</query>
+    </card>
+    <card>
+      <id>1zI6kFE_Oace58Iw3JYnqqwzR8RhTGbKL</id>
+      <slots>55</slots>
+      <name>Sakura-Tribe Elder.png</name>
+      <query>sakura tribe elder</query>
+    </card>
+    <card>
+      <id>1aFQjZA9tTBZhjt0MZGda5ihVKeEYqxyP</id>
+      <slots>56</slots>
+      <name>Shadowspear.png</name>
+      <query>shadowspear</query>
+    </card>
+    <card>
+      <id>13HID03OlVJkrPtQKloOi6i1NWIBlrjAt</id>
+      <slots>57</slots>
+      <name>Snake Umbra.png</name>
+      <query>snake umbra</query>
+    </card>
+    <card>
+      <id>1LzGDnGsKvwW8qdXHXXGYFG6eIbZkCkRR</id>
+      <slots>58</slots>
+      <name>Sol Ring.png</name>
+      <query>sol ring</query>
+    </card>
+    <card>
+      <id>11WmJAVB9WjArjnsvrP6eLDKk97tUa8TG</id>
+      <slots>59</slots>
+      <name>Stonecoil Serpent.png</name>
+      <query>stonecoil serpent</query>
+    </card>
+    <card>
+      <id>1AOh79TJxxHvjSRNQd2NR1JPx7J3qxpra</id>
+      <slots>60</slots>
+      <name>Sword of Body and Mind.png</name>
+      <query>sword of body and mind</query>
+    </card>
+    <card>
+      <id>1szc-MNFWBmL6LMw_yyqyT2-VUjmz0nXc</id>
+      <slots>61</slots>
+      <name>Sword of Hearth and Home.png</name>
+      <query>sword of hearth and home</query>
+    </card>
+    <card>
+      <id>14Wophxw8hVR2KxT0h_-wraUNiKsCEC1D</id>
+      <slots>62</slots>
+      <name>Sword of Light and Shadow.png</name>
+      <query>sword of light and shadow</query>
+    </card>
+    <card>
+      <id>1blcOWNN1HGI-ac6m8NreAJQ2PDfm9sju</id>
+      <slots>63</slots>
+      <name>Sword of Sinew and Steel.png</name>
+      <query>sword of sinew and steel</query>
+    </card>
+    <card>
+      <id>11lQgk2F8j_Blj5ODWe6aMitQmQ4Wu3K-</id>
+      <slots>64</slots>
+      <name>Sword of War and Peace.png</name>
+      <query>sword of war and peace</query>
+    </card>
+    <card>
+      <id>1wUxZv4wbzYhZBeDJBdHhoM4EnYzYP_gH</id>
+      <slots>65</slots>
+      <name>Sword of the Animist.png</name>
+      <query>sword of animist</query>
+    </card>
+    <card>
+      <id>1DgiYZu3YR8JWipkqi0Hc3ZJRimp4pxq_</id>
+      <slots>66</slots>
+      <name>Taurean Mauler.png</name>
+      <query>taurean mauler</query>
+    </card>
+    <card>
+      <id>195dnB5XcrGJA-zdfM_cg5lmjtRvXPeb2</id>
+      <slots>67</slots>
+      <name>Temple of Abandon.png</name>
+      <query>temple of abandon</query>
+    </card>
+    <card>
+      <id>1OFvTQA8b5_NEgolYq5j4y8INH-5oBDjy</id>
+      <slots>68</slots>
+      <name>Toski, Bearer of Secrets (Extended).png</name>
+      <query>toski bearer of secrets</query>
+    </card>
+    <card>
+      <id>1DWoF2Udsnks2Lx6kHU3eZAX2JMreWT1J</id>
+      <slots>69</slots>
+      <name>Trailblazer_s Boots.png</name>
+      <query>trailblazers boots</query>
+    </card>
+    <card>
+      <id>18ENXH-GXcng1_NUXAfq5sYvy541Exj3P</id>
+      <slots>70</slots>
+      <name>Utopia Sprawl.png</name>
+      <query>utopia sprawl</query>
+    </card>
+    <card>
+      <id>1kqAkbfrTCZmp0bEK3bFm3413sdxNugAh</id>
+      <slots>71</slots>
+      <name>Vandalblast.png</name>
+      <query>vandalblast</query>
+    </card>
+    <card>
+      <id>1m7Fox_P--qIBoSO5ZtQipYUrdGeuB5Ec</id>
+      <slots>72</slots>
+      <name>Vigor.jpg</name>
+      <query>vigor</query>
+    </card>
+    <card>
+      <id>1wpOOazELuAlHaBvhsGhExgD24SnIbrve</id>
+      <slots>73</slots>
+      <name>Whispersilk Cloak.png</name>
+      <query>whispersilk cloak</query>
+    </card>
+    <card>
+      <id>1a3v26IUPe88T4CRyvdKDRFY-0tCg3ZXz</id>
+      <slots>74</slots>
+      <name>Wild Beastmaster.png</name>
+      <query>wild beastmaster</query>
+    </card>
+    <card>
+      <id>18bo6xhuZCViItv3I0F_2CJlfIpqvuqIJ</id>
+      <slots>75</slots>
+      <name>Wild Growth.png</name>
+      <query>wild growth</query>
+    </card>
+    <card>
+      <id>15Lo0fb7U5c65TsN9ZvZQ5djOmbL_o-Yo</id>
+      <slots>76</slots>
+      <name>Wolfwillow Haven.png</name>
+      <query>wolfwillow haven</query>
+    </card>
+    <card>
+      <id>1r7sN_TokcjDxEAMXkuD7k7b2C3QKma5B</id>
+      <slots>81,82,77,83,78,84,79,80</slots>
+      <name>Mountain (Unstable).png</name>
+      <query>mountain</query>
+    </card>
+    <card>
+      <id>1Te6qLzzFFJh4VojkV0HNr1UOF5ZDDVqt</id>
+      <slots>91,86,87,93,88,94,89,95,90,85,96,97,92</slots>
+      <name>Forest (Unstable).png</name>
+      <query>forest</query>
+    </card>
+    <card>
+      <id>1UiPQR4Ji1aBjaJw0dqF_ICdtd0qWWeNt</id>
+      <slots>98</slots>
+      <name>Chishiro, the Shattered Blade (Extended).png</name>
+      <query>chishiro shattered blade</query>
+    </card>
+  <card>
+      <id>1YLJifKepR1LCUyWKLxQifCpbzLKf9JWP</id>
+      <slots>101</slots>
+      <name>Benevolent Geist.png</name>
+      <query>benevolent geist</query>
+    </card><card>
+      <id>1-n-Fr-sZrEQRrHZlA_bLIw43j7-Lstly</id>
+      <slots>102</slots>
+      <name>7. Valakut Stoneforge.png</name>
+      <query>valakut stoneforge</query>
+    </card><card>
+      <id>1pXcCjbfQFd9PQl1rGWNHbl9b4GUvB3Zi</id>
+      <slots>103</slots>
+      <name>7. Sea Gate, Reborn.png</name>
+      <query>sea gate reborn</query>
+    </card><card>
+      <id>1a1O3X9f9UB1NvNzkcEyfpSAfUdxpUyPt</id>
+      <slots>104</slots>
+      <name>10. Lavaglide Pathway.png</name>
+      <query>lavaglide pathway</query>
+    </card></fronts>
+  <backs>
+    <card>
+      <id>1d4MbpYBzFLc7gFQpR897ifRuNStWf9vl</id>
+      <slots>6</slots>
+      <name>7. Bala Ged Sanctuary.png</name>
+      <query>bala ged sanctuary</query>
+    </card>
+  <card>
+      <id>1DnE_wdlEbKb-jzEva49wt1nGiihxj-Uj</id>
+      <slots>1</slots>
+      <name>Thassa_s Oracle.png</name>
+      <query>thassas oracle</query>
+    </card><card>
+      <id>15phCemAoDzLmAyJqNcBTY0xj9QHClwCL</id>
+      <slots>2</slots>
+      <name>Spellskite.png</name>
+      <query>spellskite</query>
+    </card><card>
+      <id>11JAYcUtTBfv1rQcePDgecsdB7I-cS_ZE</id>
+      <slots>3</slots>
+      <name>Snapcaster Mage.png</name>
+      <query>snapcaster mage</query>
+    </card><card>
+      <id>1IyM3yvCRshCxbjxPTbUNpnBiZmR-SIkK</id>
+      <slots>4</slots>
+      <name>Imperial Recruiter.png</name>
+      <query>imperial recruiter</query>
+    </card><card>
+      <id>1wJa9iSc0gv-9W28f-Hdr9uDiUbAkIC54</id>
+      <slots>5</slots>
+      <name>Whirlpool Warrior.png</name>
+      <query>whirlpool warrior</query>
+    </card><card>
+      <id>1V6elvWLkvgUK6zf1lZDdqU0xQA_LA5-L</id>
+      <slots>7</slots>
+      <name>Chasm Skulker.png</name>
+      <query>chasm skulker</query>
+    </card><card>
+      <id>1zXlK77MMZb0G6sHKItno2tycUfhrzVkH</id>
+      <slots>8</slots>
+      <name>Purphoros, God of the Forge.png</name>
+      <query>purphoros god of forge</query>
+    </card><card>
+      <id>179qucgksY6YbvxEAL81C-nGbT4DqIUPT</id>
+      <slots>9</slots>
+      <name>Torbran, Thane of Red Fell.png</name>
+      <query>torbran thane of red fell</query>
+    </card><card>
+      <id>1QzkYLmDPc_G09NZEAw2659PkW4yQuu1i</id>
+      <slots>10</slots>
+      <name>Psychosis Crawler.png</name>
+      <query>psychosis crawler</query>
+    </card><card>
+      <id>1LGObutVqqubgj4ytoYy7j2I6Qrq_RvEO</id>
+      <slots>11</slots>
+      <name>Sage of the Falls.png</name>
+      <query>sage of falls</query>
+    </card><card>
+      <id>1mqjS1wMLiAl24kOnBTG3ofmYD_eJKw_n</id>
+      <slots>12</slots>
+      <name>Jin-Gitaxias, Progress Tyrant (M15).png</name>
+      <query>jin gitaxias progress tyrant</query>
+    </card><card>
+      <id>1CBcZ2Nzrra1jBA764Us_QHjLm_aP7pej</id>
+      <slots>13</slots>
+      <name>Kozilek, Butcher of Truth.png</name>
+      <query>kozilek butcher of truth</query>
+    </card><card>
+      <id>15jXG1_sssURjtLkj_RygEm11JBRHSr0B</id>
+      <slots>14</slots>
+      <name>Narset, Parter of Veils (Alternate).png</name>
+      <query>narset parter of veils</query>
+    </card><card>
+      <id>1r_1ibTSe3USoutE3DiXlziuST1v84mpD</id>
+      <slots>15</slots>
+      <name>Brainstorm.png</name>
+      <query>brainstorm</query>
+    </card><card>
+      <id>1aq9E5TVJ99Z4zLxr-ua9Kfn3S4vtjR3-</id>
+      <slots>16</slots>
+      <name>Faithless Looting.png</name>
+      <query>faithless looting</query>
+    </card><card>
+      <id>1-teGXJXc1tq2zTqNC6-jaYTcYnWXa2Cg</id>
+      <slots>17</slots>
+      <name>Ponder.png</name>
+      <query>ponder</query>
+    </card><card>
+      <id>1Cmbn-WidZzt7B5ZJH0IhYw8scGuDfbqY</id>
+      <slots>18</slots>
+      <name>Mystical Tutor.png</name>
+      <query>mystical tutor</query>
+    </card><card>
+      <id>1IS2DCWVGWQvkdL4sa-1YW91AyWhY9C9-</id>
+      <slots>19</slots>
+      <name>Wheel of Fortune.png</name>
+      <query>wheel of fortune</query>
+    </card><card>
+      <id>1rP1DuwsL43BMDjftwiQhfYeaiJedW8tB</id>
+      <slots>20</slots>
+      <name>Windfall.png</name>
+      <query>windfall</query>
+    </card><card>
+      <id>1mK6fcRoB_1cZIfR-msC31x3cdVjumJFM</id>
+      <slots>21</slots>
+      <name>Winds of Change.png</name>
+      <query>winds of change</query>
+    </card><card>
+      <id>1f4ronGrIXxIO4fhUfxTcJoWj3Zzus9UA</id>
+      <slots>22</slots>
+      <name>Tolarian Winds.png</name>
+      <query>tolarian winds</query>
+    </card><card>
+      <id>1vrLFVySAvR7lT-3rd3qNg01xFcpnG5NT</id>
+      <slots>23</slots>
+      <name>Pull from Tomorrow.png</name>
+      <query>pull from tomorrow</query>
+    </card><card>
+      <id>1wVlzKSWEq9-Rf4JNufIhAYCRGJ5Xb4qd</id>
+      <slots>24</slots>
+      <name>Blue Sun_s Zenith.png</name>
+      <query>blue suns zenith</query>
+    </card><card>
+      <id>1Gk4cqSkN5p820pKbfEnNABMo13ss4mgq</id>
+      <slots>25</slots>
+      <name>Echo of Eons.png</name>
+      <query>echo of eons</query>
+    </card><card>
+      <id>1dHbdi94gRW0bC-dfMbAzMjRY5f4UeM1O</id>
+      <slots>28</slots>
+      <name>Chain of Vapor.png</name>
+      <query>chain of vapor</query>
+    </card><card>
+      <id>1oBjF8tQZGg1_p2dyIalemXTAyH3PMra_</id>
+      <slots>29</slots>
+      <name>Pongify.png</name>
+      <query>pongify</query>
+    </card><card>
+      <id>1N7OQc5T-162Kgr3TehtW3V75H4JIC-_Z</id>
+      <slots>30</slots>
+      <name>Rapid Hybridization.png</name>
+      <query>rapid hybridization</query>
+    </card><card>
+      <id>19ffhX87dJtySbFMf9IxAsUzyDjq4MZhx</id>
+      <slots>31</slots>
+      <name>Reality Shift.png</name>
+      <query>reality shift</query>
+    </card><card>
+      <id>1NkWtBa8SF9G2eiW8trmmYAe7XiVe5TPJ</id>
+      <slots>32</slots>
+      <name>Chaos Warp.png</name>
+      <query>chaos warp</query>
+    </card><card>
+      <id>1QO-fwO19lqXciGn_ncEGfC1OGiXVSmwl</id>
+      <slots>33</slots>
+      <name>Cyclonic Rift.png</name>
+      <query>cyclonic rift</query>
+    </card><card>
+      <id>1jMCutGerInw3vdgEBUTGeo2tXjUfCbAB</id>
+      <slots>34</slots>
+      <name>Prismari Command.png</name>
+      <query>prismari command</query>
+    </card><card>
+      <id>1wyp3Ao77bl_zZ7deon-LtoA2ZOrVuqhg</id>
+      <slots>35</slots>
+      <name>Abrade.png</name>
+      <query>abrade</query>
+    </card><card>
+      <id>12BynaXBPRUWMo7Aetp0VA0JuI9c9vgzk</id>
+      <slots>36</slots>
+      <name>Blasphemous Act.png</name>
+      <query>blasphemous act</query>
+    </card><card>
+      <id>1xDICqFU46m_vOxbR27LhmvJ4C4XDCFh1</id>
+      <slots>37</slots>
+      <name>aetherize.png</name>
+      <query>aetherize</query>
+    </card><card>
+      <id>1SLDNktoFeYV1ds0DA4uawzAuE9lp05tp</id>
+      <slots>38</slots>
+      <name>Red Elemental Blast.png</name>
+      <query>red elemental blast</query>
+    </card><card>
+      <id>1lj_uiTrxQx5l8fAFOnPZEpKJATU6M0Zd</id>
+      <slots>39</slots>
+      <name>Counterspell (Showcase).png</name>
+      <query>counterspell</query>
+    </card><card>
+      <id>1ysPeK725HQ9Fz7MstpgTtMbcSe8HUsRi</id>
+      <slots>40</slots>
+      <name>Dispel.png</name>
+      <query>dispel</query>
+    </card><card>
+      <id>1P8TFIOdmiYPBxOivkscjnk6RwIcmMmQM</id>
+      <slots>41</slots>
+      <name>Flusterstorm.png</name>
+      <query>flusterstorm</query>
+    </card><card>
+      <id>1Mne8pGfQI7wkaiL_0Pcm7vdf_HsEjIAF</id>
+      <slots>42</slots>
+      <name>Swan Song.png</name>
+      <query>swan song</query>
+    </card><card>
+      <id>1988hzFKybol3POc0m5qWqrjVDuyodebO</id>
+      <slots>43</slots>
+      <name>Arcane Denial.png</name>
+      <query>arcane denial</query>
+    </card><card>
+      <id>13mgyxOnMpYaZf09YI7rKOO-k4-RjM1wv</id>
+      <slots>44</slots>
+      <name>Mana Drain.png</name>
+      <query>mana drain</query>
+    </card><card>
+      <id>1nEe2ZNfArhRR-QWIcCj2z2xvagaJXTsL</id>
+      <slots>45</slots>
+      <name>Fierce Guardianship.png</name>
+      <query>fierce guardianship</query>
+    </card><card>
+      <id>1SiZ5EW6E4vxdEHYRzE7w71bug1Au-ZxZ</id>
+      <slots>46</slots>
+      <name>Force of Negation.png</name>
+      <query>force of negation</query>
+    </card><card>
+      <id>1oOdQBbHXG0IMpvZXaAVMjJizBKjRoHYa</id>
+      <slots>47</slots>
+      <name>Force of Will.png</name>
+      <query>force of will</query>
+    </card><card>
+      <id>1_K7lGdniLm_U_gpOPgnkyF3OTKDyi4Mt</id>
+      <slots>48</slots>
+      <name>Impact Tremors.png</name>
+      <query>impact tremors</query>
+    </card><card>
+      <id>1OPEpVEvf-nKq0ZPuQB6gFFzt58U0TbvN</id>
+      <slots>49</slots>
+      <name>Shared Animosity.png</name>
+      <query>shared animosity</query>
+    </card><card>
+      <id>1seuMlosTuUhpPify10YMlYczE3J5XkkF</id>
+      <slots>50</slots>
+      <name>Rhystic Study.png</name>
+      <query>rhystic study</query>
+    </card><card>
+      <id>1EsOEQTMBJpUtNFg-B17dlBl1GzZEp6K5</id>
+      <slots>51</slots>
+      <name>Sorcerer Class.jpg</name>
+      <query>sorcerer class</query>
+    </card><card>
+      <id>14WohhYcwsNvRrUT9eARV9X0VzsqpahEt</id>
+      <slots>52</slots>
+      <name>Kindred Discovery.png</name>
+      <query>kindred discovery</query>
+    </card><card>
+      <id>1IEQ8Pg7JxRELCAqUjG0VX7VHHFpgnSiP</id>
+      <slots>53</slots>
+      <name>Skullclamp.png</name>
+      <query>skullclamp</query>
+    </card><card>
+      <id>1BcfR5Dv-rrEAXmW4zJ9bISxroSxc0VsE</id>
+      <slots>54</slots>
+      <name>Ashnod_s Altar.png</name>
+      <query>ashnods altar</query>
+    </card><card>
+      <id>1ElHdLVIeW8j8S2LbrGM_VlX3knBNyMZH</id>
+      <slots>55</slots>
+      <name>Phyrexian Altar.png</name>
+      <query>phyrexian altar</query>
+    </card><card>
+      <id>13EfH2AfWCkpRHwW0KUFK_GtT8NFGQoSQ</id>
+      <slots>56</slots>
+      <name>Teferi_s Puzzle Box.png</name>
+      <query>teferis puzzle box</query>
+    </card><card>
+      <id>1MgTXdi9JZsDMI3VG_7ZwQWjMGOh3NnTB</id>
+      <slots>57</slots>
+      <name>Sapphire Medallion.png</name>
+      <query>sapphire medallion</query>
+    </card><card>
+      <id>1LzGDnGsKvwW8qdXHXXGYFG6eIbZkCkRR</id>
+      <slots>58</slots>
+      <name>Sol Ring.png</name>
+      <query>sol ring</query>
+    </card><card>
+      <id>1XMp5uf_OnueQO5vNaIRSKFSB3TMf-zne</id>
+      <slots>59</slots>
+      <name>Arcane Signet.png</name>
+      <query>arcane signet</query>
+    </card><card>
+      <id>1d_Rqu9Lp2lz4lksOkuImokD1p04vRes_</id>
+      <slots>60</slots>
+      <name>Thought Vessel.png</name>
+      <query>thought vessel</query>
+    </card><card>
+      <id>1F8w1XsfVhK6nVtAtEBgb1hcNO1t70fNP</id>
+      <slots>61</slots>
+      <name>Izzet Signet.png</name>
+      <query>izzet signet</query>
+    </card><card>
+      <id>14f1CKWa7V0Q_4Wrh9RZFxtQy972R5hWm</id>
+      <slots>62</slots>
+      <name>Talisman of Creativity.png</name>
+      <query>talisman of creativity</query>
+    </card><card>
+      <id>1BjO0JuV-qMynkvFjBH_23ANEsYm0r-tV</id>
+      <slots>63</slots>
+      <name>Mind Stone.png</name>
+      <query>mind stone</query>
+    </card><card>
+      <id>1xYVOKJCLbMSKO1y24TaNz0iDnL-bnvM_</id>
+      <slots>64</slots>
+      <name>Mana Crypt (2XM Showcase).png</name>
+      <query>mana crypt</query>
+    </card><card>
+      <id>1ArOAguzG34r4clMw4xpWwb-VykCWqt6u</id>
+      <slots>65</slots>
+      <name>Mana Vault.png</name>
+      <query>mana vault</query>
+    </card><card>
+      <id>15jXwvv4IlUeXDjzvznHZ1L6HszvjuaMM</id>
+      <slots>66</slots>
+      <name>Chrome Mox (MRD).png</name>
+      <query>chrome mox</query>
+    </card><card>
+      <id>14ffU2iGFlhUkgt1KMzicbxbkadNVli7K</id>
+      <slots>67</slots>
+      <name>Mystic Sanctuary.png</name>
+      <query>mystic sanctuary</query>
+    </card><card>
+      <id>1RFOzFxDPwZ3CIH_Y52Bt1SoiXoCt-9bM</id>
+      <slots>68</slots>
+      <name>Desolate Lighthouse.png</name>
+      <query>desolate lighthouse</query>
+    </card><card>
+      <id>1BlqDYFaVIWQOvHml8zi3HvLCvaQPT8-t</id>
+      <slots>69</slots>
+      <name>Geier Reach Sanitarium.png</name>
+      <query>geier reach sanitarium</query>
+    </card><card>
+      <id>1GU-4WXiaNuSx6dPrOVQX20JAGPSr4iEB</id>
+      <slots>70</slots>
+      <name>Ancient Tomb.png</name>
+      <query>ancient tomb</query>
+    </card><card>
+      <id>13g0DhMGVGHHnZ6ZCRWdgbebg-nlaQkCS</id>
+      <slots>71</slots>
+      <name>Reliquary Tower.png</name>
+      <query>reliquary tower</query>
+    </card><card>
+      <id>1xkWsVwhIB7aGpIFUbACzGSc8fY-P1bm5</id>
+      <slots>72</slots>
+      <name>Otawara, Soaring City.png</name>
+      <query>otawara soaring city</query>
+    </card><card>
+      <id>1WE5PZfZkDLZIpoun437dRTGwj5I5Kd2p</id>
+      <slots>73</slots>
+      <name>Command Tower.png</name>
+      <query>command tower</query>
+    </card><card>
+      <id>1n_y4wrmyAm3FOls3doYIYkIWL-lspSKc</id>
+      <slots>74</slots>
+      <name>Exotic Orchard.png</name>
+      <query>exotic orchard</query>
+    </card><card>
+      <id>1ObUYwik9kBXDQJKG-zi6Mu4gXAj2FQkD</id>
+      <slots>75</slots>
+      <name>Shivan Reef.png</name>
+      <query>shivan reef</query>
+    </card><card>
+      <id>1FcDIg-PDcRawMj_5PHdpIUYKLU-5utLv</id>
+      <slots>76</slots>
+      <name>Sulfur Falls.png</name>
+      <query>sulfur falls</query>
+    </card><card>
+      <id>1BWuzeFYAP8Qe92pSbkhTXTdvGc7wLtos</id>
+      <slots>77</slots>
+      <name>Steam Vents (Return to Ravnica).png</name>
+      <query>steam vents</query>
+    </card><card>
+      <id>1V8yc9Eg3YA_kWK1frYCceSWf-aIzBK2B</id>
+      <slots>78</slots>
+      <name>Training Center.png</name>
+      <query>training center</query>
+    </card><card>
+      <id>1xN7i4WaGvZnuzBi-yf0ZvotnKoUXXv9d</id>
+      <slots>79</slots>
+      <name>Cascade Bluffs.png</name>
+      <query>cascade bluffs</query>
+    </card><card>
+      <id>147arpKrww4CldocczA4HqoJMKpIvNgGL</id>
+      <slots>80</slots>
+      <name>Volcanic Island.png</name>
+      <query>volcanic island</query>
+    </card><card>
+      <id>1fxqVIJ7yaNLUZFHmJ2yezoZvgKv-TUIP</id>
+      <slots>82</slots>
+      <name>Fiery Islet.png</name>
+      <query>fiery islet</query>
+    </card><card>
+      <id>1V1Xojl4MbFrm9RLvcOve5ssqNUWF6spN</id>
+      <slots>83</slots>
+      <name>Misty Rainforest.png</name>
+      <query>misty rainforest</query>
+    </card><card>
+      <id>1AktZg7VdWaOFj2S_QAB1r5GdlDpM4yRc</id>
+      <slots>84</slots>
+      <name>Flooded Strand.png</name>
+      <query>flooded strand</query>
+    </card><card>
+      <id>1NjRFJyAeKwhfskhcWMmVNS0_1yr0hklm</id>
+      <slots>85</slots>
+      <name>Scalding Tarn.png</name>
+      <query>scalding tarn</query>
+    </card><card>
+      <id>1jcKZJkZF6nsME05-d3HWPUe7q8VvqnHp</id>
+      <slots>86</slots>
+      <name>Polluted Delta.png</name>
+      <query>polluted delta</query>
+    </card><card>
+      <id>1xNifzFh0AUnTQQnrHpSEPKB7XiPrK7Vq</id>
+      <slots>87</slots>
+      <name>Stormcarved Coast.png</name>
+      <query>stormcarved coast</query>
+    </card><card>
+      <id>1av0DP7-_B9nSCTJXQdGbU1IHYWonLDod</id>
+      <slots>88</slots>
+      <name>Castle Vantress.png</name>
+      <query>castle vantress</query>
+    </card><card>
+      <id>1G9IZ0knzzDwLw8vaAwehAvg9B-aLSfMv</id>
+      <slots>92,94,89,95,90,91,93</slots>
+      <name>Island (Unstable).png</name>
+      <query>island</query>
+    </card><card>
+      <id>1r7sN_TokcjDxEAMXkuD7k7b2C3QKma5B</id>
+      <slots>96,97,98</slots>
+      <name>Mountain (Unstable).png</name>
+      <query>mountain</query>
+    </card><card>
+      <id>1wUmGq9Ciz2RE0XZgBGZcpfSjSq58Oyt7</id>
+      <slots>99</slots>
+      <name>The Locust God.png</name>
+      <query>locust god</query>
+    </card><card>
+      <id>1OuD_pw3zPmVOLpGV5IKjcVq-9XHD_OPV</id>
+      <slots>100</slots>
+      <name>Laboratory Maniac.png</name>
+      <query>laboratory maniac</query>
+    </card><card>
+      <id>1d_smAj6qX_PlFIycyC-SEZRlpHfmnuDk</id>
+      <slots>101</slots>
+      <name>Malevolent Hermit.png</name>
+      <query>Malevolent Hermit</query>
+    </card><card>
+      <id>1gu-fWOjigZz8U5e7psw0j5TRf6rn67cx</id>
+      <slots>102</slots>
+      <name>7. Valakut Awakening.png</name>
+      <query>Valakut Awakening</query>
+    </card><card>
+      <id>1uCMwwzQc879ou8COUKiOJUl_MAvsBDiZ</id>
+      <slots>103</slots>
+      <name>7. Sea Gate Restoration.png</name>
+      <query>Sea Gate Restoration</query>
+    </card><card>
+      <id>1lRvoASuEBPxCW6axlYQ_O8e9qUrISGNR</id>
+      <slots>104</slots>
+      <name>Riverglide Pathway (Flip).png</name>
+      <query>Riverglide Pathway</query>
+    </card></backs>
+  <cardback>1cZtjFsZlRST5YMNGp8Arh-KsUdX-QoY0</cardback>
+</order>
